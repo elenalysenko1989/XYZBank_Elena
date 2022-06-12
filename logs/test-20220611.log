@@ -1,0 +1,79 @@
+2022-06-11 12:08:27.060 [main] INFO  tests.BaseTest - Opening the web pagehttps://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 12:08:27.067 [main] INFO  tests.BaseTest - ######## Test Case: Login Page Title
+2022-06-11 12:08:27.522 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 12:08:30.434 [main] INFO  tests.BaseTest - Opening the web pagehttps://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 12:08:30.435 [main] INFO  tests.BaseTest - ######## Test Case: Manager Login
+2022-06-11 12:08:36.577 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 15:34:27.701 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 15:34:27.706 [main] INFO  tests.BaseTest - ######## Test Case: Manager Login
+2022-06-11 15:34:33.815 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 15:41:56.084 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 15:41:56.088 [main] INFO  tests.BaseTest - ######## Test Case: Login Page Title
+2022-06-11 15:41:56.487 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 15:41:58.910 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 15:41:58.911 [main] INFO  tests.BaseTest - ######## Test Case: Manager Login
+2022-06-11 15:42:04.949 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 15:57:19.506 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 15:57:19.511 [main] INFO  tests.BaseTest - ######## Test Case: Login Page Title
+2022-06-11 15:57:19.945 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 15:57:22.665 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 15:57:22.666 [main] INFO  tests.BaseTest - ######## Test Case: Manager Login
+2022-06-11 15:57:28.746 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 15:58:18.537 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 15:58:18.542 [main] INFO  tests.BaseTest - ######## Test Case: Customer Login
+2022-06-11 15:58:19.694 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 16:01:04.714 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 16:01:04.722 [main] INFO  tests.BaseTest - ######## Test Case: Customer Login
+2022-06-11 16:01:11.246 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 16:31:13.675 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 16:31:13.680 [main] INFO  tests.BaseTest - ######## Test Case: Customer Transactions
+2022-06-11 16:31:19.434 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 16:46:29.774 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 16:46:29.780 [main] INFO  tests.BaseTest - ######## Test Case: Customer Transactions
+2022-06-11 16:46:36.643 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 16:51:39.892 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 16:51:39.899 [main] INFO  tests.BaseTest - ######## Test Case: Customer Table
+2022-06-11 16:51:51.132 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 16:56:57.633 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 16:56:57.637 [main] INFO  tests.BaseTest - ######## Test Case: Customer Table
+2022-06-11 16:56:59.426 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 16:58:22.710 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 16:58:22.714 [main] INFO  tests.BaseTest - ######## Test Case: Customer Table
+2022-06-11 16:58:24.085 [main] INFO  tests.BaseTest - ######## Test Case: Customer Table, checking table clickability
+2022-06-11 16:58:24.553 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 17:10:06.820 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 17:10:06.825 [main] INFO  tests.BaseTest - ######## Test Case: Back button
+2022-06-11 17:10:18.510 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 17:11:33.014 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 17:11:33.019 [main] INFO  tests.BaseTest - ######## Test Case: Back button
+2022-06-11 17:11:34.901 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 18:16:51.460 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 18:16:51.467 [main] INFO  tests.BaseTest - ######## Test Case: Back button
+2022-06-11 18:16:53.459 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 18:22:45.536 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 18:22:45.540 [main] INFO  tests.BaseTest - ######## Test Case: Back button
+2022-06-11 18:22:47.477 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 18:23:44.229 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 18:23:44.233 [main] INFO  tests.BaseTest - ######## Test Case: Back button
+2022-06-11 18:23:46.075 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 19:52:32.082 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 19:52:32.086 [main] INFO  tests.BaseTest - ######## Test Case: Logout Page
+2022-06-11 19:52:39.001 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 20:15:47.492 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 20:15:47.496 [main] INFO  tests.BaseTest - ######## Test Case: Logout Page
+2022-06-11 20:15:54.343 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 20:16:54.145 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 20:16:54.153 [main] INFO  tests.BaseTest - ######## Test Case: Logout Page
+2022-06-11 20:17:01.021 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 20:26:50.904 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 20:26:50.909 [main] INFO  tests.BaseTest - ######## Test Case: Logout Page
+2022-06-11 20:26:52.855 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 20:27:38.783 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 20:27:38.788 [main] INFO  tests.BaseTest - ######## Test Case: Logout Page
+2022-06-11 20:27:45.994 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 20:35:23.374 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 20:35:23.380 [main] INFO  tests.BaseTest - ######## Test Case: Logout Page
+2022-06-11 20:35:35.448 [main] INFO  tests.BaseTest - Closing the browser
+2022-06-11 20:36:29.796 [main] INFO  tests.BaseTest - Opening the web page https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2022-06-11 20:36:29.799 [main] INFO  tests.BaseTest - ######## Test Case: Logout Page
+2022-06-11 20:36:37.119 [main] INFO  tests.BaseTest - Closing the browser

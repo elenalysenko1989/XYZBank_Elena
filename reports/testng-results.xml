@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-12T18:23:00 KRAT" name="Default Suite" finished-at="2022-06-12T18:25:08 KRAT" duration-ms="128274">
+    <groups>
+    </groups>
+    <test started-at="2022-06-12T18:23:00 KRAT" name="XYZBank" finished-at="2022-06-12T18:25:08 KRAT" duration-ms="128274">
+      <class name="tests.CustomerDepositTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.CustomerDepositTest@404bbcbd]" started-at="2022-06-12T18:23:00 KRAT" name="SetUp" finished-at="2022-06-12T18:23:04 KRAT" duration-ms="4734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCustomerDeposit()[pri:0, instance:tests.CustomerDepositTest@404bbcbd]" started-at="2022-06-12T18:23:04 KRAT" name="testCustomerDeposit" finished-at="2022-06-12T18:23:11 KRAT" duration-ms="6806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerDeposit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CustomerDepositTest@404bbcbd]" started-at="2022-06-12T18:23:11 KRAT" name="tearDown" finished-at="2022-06-12T18:23:11 KRAT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.CustomerDepositTest@404bbcbd]" started-at="2022-06-12T18:23:11 KRAT" name="SetUp" finished-at="2022-06-12T18:23:14 KRAT" duration-ms="3058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testEnterAmount()[pri:0, instance:tests.CustomerDepositTest@404bbcbd]" started-at="2022-06-12T18:23:14 KRAT" name="testEnterAmount" finished-at="2022-06-12T18:23:22 KRAT" duration-ms="7160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnterAmount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CustomerDepositTest@404bbcbd]" started-at="2022-06-12T18:23:22 KRAT" name="tearDown" finished-at="2022-06-12T18:23:22 KRAT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CustomerDepositTest -->
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.LoginTest@2a225dd7]" started-at="2022-06-12T18:24:38 KRAT" name="SetUp" finished-at="2022-06-12T18:24:40 KRAT" duration-ms="2395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCustomerLogin()[pri:0, instance:tests.LoginTest@2a225dd7]" started-at="2022-06-12T18:24:40 KRAT" name="testCustomerLogin" finished-at="2022-06-12T18:24:46 KRAT" duration-ms="6358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@2a225dd7]" started-at="2022-06-12T18:24:46 KRAT" name="tearDown" finished-at="2022-06-12T18:24:46 KRAT" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.LoginTest@2a225dd7]" started-at="2022-06-12T18:24:46 KRAT" name="SetUp" finished-at="2022-06-12T18:24:49 KRAT" duration-ms="2714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testLoginPageTitle()[pri:0, instance:tests.LoginTest@2a225dd7]" started-at="2022-06-12T18:24:49 KRAT" name="testLoginPageTitle" finished-at="2022-06-12T18:24:50 KRAT" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@2a225dd7]" started-at="2022-06-12T18:24:50 KRAT" name="tearDown" finished-at="2022-06-12T18:24:50 KRAT" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.LoginTest@2a225dd7]" started-at="2022-06-12T18:24:50 KRAT" name="SetUp" finished-at="2022-06-12T18:24:52 KRAT" duration-ms="2798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testManagerLogin()[pri:0, instance:tests.LoginTest@2a225dd7]" started-at="2022-06-12T18:24:52 KRAT" name="testManagerLogin" finished-at="2022-06-12T18:24:58 KRAT" duration-ms="5922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testManagerLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@2a225dd7]" started-at="2022-06-12T18:24:58 KRAT" name="tearDown" finished-at="2022-06-12T18:24:58 KRAT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.ManagerCustomersTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.ManagerCustomersTest@7c51f34b]" started-at="2022-06-12T18:24:09 KRAT" name="SetUp" finished-at="2022-06-12T18:24:12 KRAT" duration-ms="2748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCustomersInfo()[pri:0, instance:tests.ManagerCustomersTest@7c51f34b]" started-at="2022-06-12T18:24:12 KRAT" name="testCustomersInfo" finished-at="2022-06-12T18:24:18 KRAT" duration-ms="6273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomersInfo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ManagerCustomersTest@7c51f34b]" started-at="2022-06-12T18:24:18 KRAT" name="tearDown" finished-at="2022-06-12T18:24:19 KRAT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ManagerCustomersTest -->
+      <class name="tests.ManagerOpenAccountTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.ManagerOpenAccountTest@5495333e]" started-at="2022-06-12T18:24:19 KRAT" name="SetUp" finished-at="2022-06-12T18:24:21 KRAT" duration-ms="2814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCustomerFields()[pri:0, instance:tests.ManagerOpenAccountTest@5495333e]" started-at="2022-06-12T18:24:21 KRAT" name="testCustomerFields" finished-at="2022-06-12T18:24:28 KRAT" duration-ms="6790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ManagerOpenAccountTest@5495333e]" started-at="2022-06-12T18:24:28 KRAT" name="tearDown" finished-at="2022-06-12T18:24:28 KRAT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.ManagerOpenAccountTest@5495333e]" started-at="2022-06-12T18:24:28 KRAT" name="SetUp" finished-at="2022-06-12T18:24:31 KRAT" duration-ms="2929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testOpenAccountButton()[pri:0, instance:tests.ManagerOpenAccountTest@5495333e]" started-at="2022-06-12T18:24:31 KRAT" name="testOpenAccountButton" finished-at="2022-06-12T18:24:38 KRAT" duration-ms="6260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOpenAccountButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ManagerOpenAccountTest@5495333e]" started-at="2022-06-12T18:24:38 KRAT" name="tearDown" finished-at="2022-06-12T18:24:38 KRAT" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ManagerOpenAccountTest -->
+      <class name="tests.ManagerAddCustomerTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.ManagerAddCustomerTest@11bb571c]" started-at="2022-06-12T18:23:50 KRAT" name="SetUp" finished-at="2022-06-12T18:23:53 KRAT" duration-ms="2792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testAddCustomerButton()[pri:0, instance:tests.ManagerAddCustomerTest@11bb571c]" started-at="2022-06-12T18:23:53 KRAT" name="testAddCustomerButton" finished-at="2022-06-12T18:24:00 KRAT" duration-ms="6268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddCustomerButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ManagerAddCustomerTest@11bb571c]" started-at="2022-06-12T18:24:00 KRAT" name="tearDown" finished-at="2022-06-12T18:24:00 KRAT" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.ManagerAddCustomerTest@11bb571c]" started-at="2022-06-12T18:24:00 KRAT" name="SetUp" finished-at="2022-06-12T18:24:03 KRAT" duration-ms="2885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testClickAddCustButton()[pri:0, instance:tests.ManagerAddCustomerTest@11bb571c]" started-at="2022-06-12T18:24:03 KRAT" name="testClickAddCustButton" finished-at="2022-06-12T18:24:04 KRAT" duration-ms="1951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickAddCustButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ManagerAddCustomerTest@11bb571c]" started-at="2022-06-12T18:24:04 KRAT" name="tearDown" finished-at="2022-06-12T18:24:05 KRAT" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.ManagerAddCustomerTest@11bb571c]" started-at="2022-06-12T18:24:05 KRAT" name="SetUp" finished-at="2022-06-12T18:24:07 KRAT" duration-ms="2878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testFillCustomerInfo()[pri:0, instance:tests.ManagerAddCustomerTest@11bb571c]" started-at="2022-06-12T18:24:07 KRAT" name="testFillCustomerInfo" finished-at="2022-06-12T18:24:09 KRAT" duration-ms="1852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFillCustomerInfo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ManagerAddCustomerTest@11bb571c]" started-at="2022-06-12T18:24:09 KRAT" name="tearDown" finished-at="2022-06-12T18:24:09 KRAT" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ManagerAddCustomerTest -->
+      <class name="tests.CustomerWithdrawlTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.CustomerWithdrawlTest@46271dd6]" started-at="2022-06-12T18:23:41 KRAT" name="SetUp" finished-at="2022-06-12T18:23:44 KRAT" duration-ms="2887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCustomerWithdrawl()[pri:0, instance:tests.CustomerWithdrawlTest@46271dd6]" started-at="2022-06-12T18:23:44 KRAT" name="testCustomerWithdrawl" finished-at="2022-06-12T18:23:50 KRAT" duration-ms="6636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerWithdrawl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CustomerWithdrawlTest@46271dd6]" started-at="2022-06-12T18:23:50 KRAT" name="tearDown" finished-at="2022-06-12T18:23:50 KRAT" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CustomerWithdrawlTest -->
+      <class name="tests.CustomerTransactionsTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.CustomerTransactionsTest@1ef6d34c]" started-at="2022-06-12T18:23:22 KRAT" name="SetUp" finished-at="2022-06-12T18:23:24 KRAT" duration-ms="2837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testClickBackButton()[pri:0, instance:tests.CustomerTransactionsTest@1ef6d34c]" started-at="2022-06-12T18:23:24 KRAT" name="testClickBackButton" finished-at="2022-06-12T18:23:26 KRAT" duration-ms="1743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickBackButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CustomerTransactionsTest@1ef6d34c]" started-at="2022-06-12T18:23:26 KRAT" name="tearDown" finished-at="2022-06-12T18:23:26 KRAT" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.CustomerTransactionsTest@1ef6d34c]" started-at="2022-06-12T18:23:26 KRAT" name="SetUp" finished-at="2022-06-12T18:23:29 KRAT" duration-ms="2890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCustomerTable()[pri:0, instance:tests.CustomerTransactionsTest@1ef6d34c]" started-at="2022-06-12T18:23:29 KRAT" name="testCustomerTable" finished-at="2022-06-12T18:23:31 KRAT" duration-ms="1744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerTable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CustomerTransactionsTest@1ef6d34c]" started-at="2022-06-12T18:23:31 KRAT" name="tearDown" finished-at="2022-06-12T18:23:31 KRAT" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.CustomerTransactionsTest@1ef6d34c]" started-at="2022-06-12T18:23:31 KRAT" name="SetUp" finished-at="2022-06-12T18:23:34 KRAT" duration-ms="2955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testCustomerTransactions()[pri:0, instance:tests.CustomerTransactionsTest@1ef6d34c]" started-at="2022-06-12T18:23:34 KRAT" name="testCustomerTransactions" finished-at="2022-06-12T18:23:41 KRAT" duration-ms="6633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerTransactions -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CustomerTransactionsTest@1ef6d34c]" started-at="2022-06-12T18:23:41 KRAT" name="tearDown" finished-at="2022-06-12T18:23:41 KRAT" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CustomerTransactionsTest -->
+      <class name="tests.LogoutTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:tests.LogoutTest@61eaec38]" started-at="2022-06-12T18:24:58 KRAT" name="SetUp" finished-at="2022-06-12T18:25:01 KRAT" duration-ms="2490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testLogout()[pri:0, instance:tests.LogoutTest@61eaec38]" started-at="2022-06-12T18:25:01 KRAT" name="testLogout" finished-at="2022-06-12T18:25:08 KRAT" duration-ms="6770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LogoutTest@61eaec38]" started-at="2022-06-12T18:25:08 KRAT" name="tearDown" finished-at="2022-06-12T18:25:08 KRAT" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LogoutTest -->
+    </test> <!-- XYZBank -->
+  </suite> <!-- Default Suite -->
+</testng-results>
